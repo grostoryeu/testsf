@@ -1,3 +1,5 @@
+modif g tout en haut
+
 admins
     user_id
     username
@@ -27,6 +29,9 @@ livres
     inclure_avant
     date_creation
     date_modification
+    
+//modif au milieu
+    
 newsletters
     numero
     ---
@@ -49,3 +54,5 @@ librairies
     ville
     email
     coordonnées
+
+modif g tout en bas
