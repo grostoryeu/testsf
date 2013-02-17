@@ -1,0 +1,7 @@
+parameters:
+#    mpl_app.example.class: Mpl\AppBundle\Example
+
+services:
+#    mpl_app.example:
+#        class: %mpl_app.example.class%
+#        arguments: [@service_id, "plain_value", %parameter%]

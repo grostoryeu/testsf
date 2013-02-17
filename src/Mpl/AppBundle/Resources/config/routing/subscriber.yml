@@ -1,0 +1,30 @@
+utilisateurs:
+    pattern:  /
+    defaults: { _controller: "MplAppBundle:Subscriber:index" }
+
+utilisateurs_show:
+    pattern:  /{id}/show
+    defaults: { _controller: "MplAppBundle:Subscriber:show" }
+
+utilisateurs_new:
+    pattern:  /new
+    defaults: { _controller: "MplAppBundle:Subscriber:new" }
+
+utilisateurs_create:
+    pattern:  /create
+    defaults: { _controller: "MplAppBundle:Subscriber:create" }
+    requirements: { _method: post }
+
+utilisateurs_edit:
+    pattern:  /{id}/edit
+    defaults: { _controller: "MplAppBundle:Subscriber:edit" }
+
+utilisateurs_update:
+    pattern:  /{id}/update
+    defaults: { _controller: "MplAppBundle:Subscriber:update" }
+    requirements: { _method: post }
+
+utilisateurs_delete:
+    pattern:  /{id}/delete
+    defaults: { _controller: "MplAppBundle:Subscriber:delete" }
+    requirements: { _method: post }

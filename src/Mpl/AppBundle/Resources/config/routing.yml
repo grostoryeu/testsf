@@ -1,0 +1,7 @@
+mpl_app_homepage:
+    pattern:  /hello/{name}
+    defaults: { _controller: MplAppBundle:Default:index }
+    
+MplAppBundle_subscriber:
+    resource: "@MplAppBundle/Resources/config/routing/subscriber.yml"
+    prefix:   /utilisateurs
