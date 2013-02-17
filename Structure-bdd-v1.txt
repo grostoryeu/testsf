@@ -15,24 +15,7 @@ admins
 rayons
     rayon_id
     libéllés
-livres
-    id
-    titre
-    auteur
-    edition
-    couverture
-    rayon_id
-    note
-    isbn
-    annee_parution
-    critique_auteur_id
-    critique_pitch
-    critique_texte
-    inclure_newletter
-    inclure_avant
-    date_creation
-    date_modification
-    
+
 //modif au milieu
     
 newsletters
@@ -57,5 +40,23 @@ librairies
     ville
     email
     coordonnées
+livres
+    id
+    titre
+    auteur
+    edition
+    couverture
+    rayon_id
+    note
+    isbn
+    annee_parution
+    critique_auteur_id
+    critique_pitch
+    critique_texte
+    inclure_newletter
+    inclure_avant
+    date_creation
+    date_modification
+    
 
 modif g tout en bas
