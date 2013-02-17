@@ -1,4 +1,7 @@
-modif g tout en haut
+ajout ariane
+gnagna
+sdfadfs
+et modif g tout en haut
 
 nouvelle modif
 
@@ -17,25 +20,10 @@ blablabla
 rayons
     rayon_id
     libéllés
-livres
-    id
-    titre
-    auteur
-    edition
-    couverture
-    rayon_id
-    note
-    isbn
-    annee_parution
-    critique_auteur_id
-    critique_pitch
-    critique_texte
-    inclure_newletter
-    inclure_avant
-    date_creation
-    date_modification
-    
+
 //modif au milieu
+
+rira bien qui rira le premier
     
 newsletters
     numero
@@ -59,5 +47,23 @@ librairies
     ville
     email
     coordonnées
+livres
+    id
+    titre
+    auteur
+    edition
+    couverture
+    rayon_id
+    note
+    isbn
+    annee_parution
+    critique_auteur_id
+    critique_pitch
+    critique_texte
+    inclure_newletter
+    inclure_avant
+    date_creation
+    date_modification
+    
 
 modif g tout en bas
