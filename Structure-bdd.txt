@@ -1,0 +1,73 @@
+subscriber
+    id
+    email
+    ip
+    genres_ids
+    subscription_date
+    modified_date
+    
+newsletter
+    id
+    number
+    editorial
+    reviews_number
+    reviews_ids
+    scheduled_date
+    created_date
+    modified_date
+
+bookstore
+    id
+    name
+    email
+    street_address
+    postal_code
+    city
+    lat
+    lng
+    requests_number
+    created_date
+    modified_date
+
+review
+    id
+    reviewer_id
+    title
+    author
+    rating
+    pitch
+    review_start
+    review_end
+    genre_id
+    isbn
+    edition
+    pages
+    year
+    price
+    cover
+    amazon_id
+    fnac_id
+    published_date
+    created_date
+    modified_date
+
+reviewer
+    id
+    first_name
+    last_name
+    sort_order
+    picture
+    biography
+    created_date
+    modified_date
+    
+genre
+    id
+    name
+    sort_order
+
+
+
+
+
+
