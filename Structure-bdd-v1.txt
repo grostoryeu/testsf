@@ -1,5 +1,7 @@
 modif g tout en haut
 
+nouvelle modif
+
 admins
     user_id
     username
@@ -9,6 +11,9 @@ admins
         prenom
         titre (amateur/trice de Livres / librairie xx)
         texte presentation (pour page qui-sommes-nous)
+        
+blablabla        
+
 rayons
     rayon_id
     libéllés
