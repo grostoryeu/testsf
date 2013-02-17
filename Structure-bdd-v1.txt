@@ -1,0 +1,51 @@
+admins
+    user_id
+    username
+    mdp
+    email
+    auteurs de critiques
+        prenom
+        titre (amateur/trice de Livres / librairie xx)
+        texte presentation (pour page qui-sommes-nous)
+rayons
+    rayon_id
+    libéllés
+livres
+    id
+    titre
+    auteur
+    edition
+    couverture
+    rayon_id
+    note
+    isbn
+    annee_parution
+    critique_auteur_id
+    critique_pitch
+    critique_texte
+    inclure_newletter
+    inclure_avant
+    date_creation
+    date_modification
+newsletters
+    numero
+    ---
+    edito
+    nb livres à inclure
+    date envoi
+    date creation
+    ---
+    contenu html => non marche pas cause personnalisation donc quoi faire ?
+subscribers
+    email
+    rayons
+    ip
+    date_inscription
+librairies
+    nom
+    numéro dans la rue
+    type et nom de la voie
+    code postal
+    ville
+    email
+    coordonnées
