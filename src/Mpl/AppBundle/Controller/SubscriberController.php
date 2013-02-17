@@ -16,6 +16,7 @@ class SubscriberController extends Controller
 {
     /**
      * Lists all Subscriber entities.
+     * modif 2 git
      *
      */
     public function indexAction()
